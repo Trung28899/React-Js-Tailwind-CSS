@@ -33,12 +33,12 @@
 https://stackoverflow.com/questions/39320393/jsx-or-html-autocompletion-in-visual-studio-code
 
 try to open settings.json in vs code:
-Step 1: on the top right, next to the apple icon, click on Code
-Step 2: Click on Preferences
-Step 3: Click on Settings
-Step 4: Click on Extensions
-Step 5: Click on "Edit in settings.json"
-Step 6: add the following code:
++, Step 1: on the top right, next to the apple icon, click on Code
++, Step 2: Click on Preferences
++, Step 3: Click on Settings
++, Step 4: Click on Extensions
++, Step 5: Click on "Edit in settings.json"
++, Step 6: add the following code:
 
 "emmet.includeLanguages": {
 "javascript": "html"
