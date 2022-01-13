@@ -39,6 +39,7 @@ Step 3: Click on Settings
 Step 4: Click on Extensions
 Step 5: Click on "Edit in settings.json"
 Step 6: add the following code:
+
 "emmet.includeLanguages": {
 "javascript": "html"
 }
